@@ -8,7 +8,6 @@
 *.fls
 *.fdb_latexmk
 *.sta
-*.pdf
 *.synctex(busy)
 out/
 
