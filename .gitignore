@@ -22,4 +22,3 @@ shell.nix
 
 .devcontainer
 .vscode
-build/
